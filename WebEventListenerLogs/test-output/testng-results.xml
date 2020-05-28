@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27699" started-at="2020-04-29T07:14:33Z" finished-at="2020-04-29T07:15:01Z">
+    <groups>
+      <group name="abc">
+        <method signature="CreateProductTest.createProduct()[pri:0, instance:com.vTigerCRM.testScripts.CreateProductTest@26653222]" name="createProduct" class="com.vTigerCRM.testScripts.CreateProductTest"/>
+      </group> <!-- abc -->
+    </groups>
+    <test name="Default test" duration-ms="27699" started-at="2020-04-29T07:14:33Z" finished-at="2020-04-29T07:15:01Z">
+      <class name="com.vTigerCRM.testScripts.CreateProductTest">
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.vTigerCRM.testScripts.CreateProductTest@26653222]" name="configBC" is-config="true" duration-ms="13884" started-at="2020-04-29T12:44:33Z" finished-at="2020-04-29T12:44:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.vTigerCRM.testScripts.CreateProductTest@26653222]" name="configBM" is-config="true" duration-ms="4894" started-at="2020-04-29T12:44:47Z" finished-at="2020-04-29T12:44:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createProduct()[pri:0, instance:com.vTigerCRM.testScripts.CreateProductTest@26653222]" name="createProduct" duration-ms="6" started-at="2020-04-29T12:44:52Z" finished-at="2020-04-29T12:44:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProduct -->
+        <test-method status="PASS" signature="configAM(org.testng.ITestResult)[pri:0, instance:com.vTigerCRM.testScripts.CreateProductTest@26653222]" name="configAM" is-config="true" duration-ms="3985" started-at="2020-04-29T12:44:52Z" finished-at="2020-04-29T12:44:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createProduct status=SUCCESS method=CreateProductTest.createProduct()[pri:0, instance:com.vTigerCRM.testScripts.CreateProductTest@26653222] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.vTigerCRM.testScripts.CreateProductTest@26653222]" name="configBM" is-config="true" duration-ms="1743" started-at="2020-04-29T12:44:56Z" finished-at="2020-04-29T12:44:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="random()[pri:0, instance:com.vTigerCRM.testScripts.CreateProductTest@26653222]" name="random" duration-ms="1" started-at="2020-04-29T12:44:58Z" finished-at="2020-04-29T12:44:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- random -->
+        <test-method status="PASS" signature="configAM(org.testng.ITestResult)[pri:0, instance:com.vTigerCRM.testScripts.CreateProductTest@26653222]" name="configAM" is-config="true" duration-ms="2484" started-at="2020-04-29T12:44:58Z" finished-at="2020-04-29T12:45:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=random status=SUCCESS method=CreateProductTest.random()[pri:0, instance:com.vTigerCRM.testScripts.CreateProductTest@26653222] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.vTigerCRM.testScripts.CreateProductTest@26653222]" name="configAC" is-config="true" duration-ms="681" started-at="2020-04-29T12:45:00Z" finished-at="2020-04-29T12:45:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.vTigerCRM.testScripts.CreateProductTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
